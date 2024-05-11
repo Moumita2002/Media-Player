@@ -3,6 +3,28 @@
 # Preview :
 ![image](https://github.com/Moumita2002/Pocket-FM-Media-Player/assets/102172188/26de1795-2b4b-4e08-853b-b9eb6680e91a)
 
+# Important:
+- Added all the controls like :
+  - Play/Pause
+  - Previous
+  - Next
+  - Volume Control
+  - Minimize
+  - Full Screen
+  - 10 seconds Forward
+  - 10 seconds Backward
+  - Play Speed Control (0.5x to 4x) on 0.25 interval
+  - Progress Bar indicating media progress
+- Also added keyboard functionalities :
+  - Spacebar: Toggle Play/Pause
+  - Up/Down Arrow: Volume Control
+  - Right/Left Arrow: 10-second Forward/Backward
+  - M: Mute
+  - F: Full Screen
+  - Esc: Exit Full Screen
+  - W: Minimize
+  - N: Play Next Media
+  - P: Play Previous Media
 
 # Getting Started with Create React App
 
