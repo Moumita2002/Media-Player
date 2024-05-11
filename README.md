@@ -15,6 +15,7 @@
   - 10 seconds Backward
   - Play Speed Control (0.5x to 4x) on 0.25 interval
   - Progress Bar indicating media progress
+    
 - Also added keyboard functionalities :
   - Spacebar: Toggle Play/Pause
   - Up/Down Arrow: Volume Control
