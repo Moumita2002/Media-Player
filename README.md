@@ -1,3 +1,9 @@
+# Live Link : https://663f6dc6377a66eed4848403--taupe-cocada-586c9a.netlify.app/
+
+# Preview :
+![image](https://github.com/Moumita2002/Pocket-FM-Media-Player/assets/102172188/26de1795-2b4b-4e08-853b-b9eb6680e91a)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
